@@ -1,2 +1,4 @@
 i am in file1 in working area
 Added new content in my second chngage
+Hello world -la
+ Hello world 1b
