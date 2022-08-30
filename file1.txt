@@ -1,1 +1,2 @@
 i am in file1 in working area
+Added new content in my second chngage
